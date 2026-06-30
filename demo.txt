@@ -1,3 +1,5 @@
 base
 main-r1-1
 main-r1-2
+main-r2-1
+main-r2-2
